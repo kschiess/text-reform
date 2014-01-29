@@ -11,7 +11,9 @@ Gem::Specification.new do |s|
   s.description = "Text::Reform reformats text according to formatting picture templates. It's a\nport from the Perl module of the same name originally by Damian Conway\n(damian@conway.org). Much of the documentation has been copied from the\noriginal documentation and adapted to the Ruby version.\n\nThe interface is subject to change, since it will undergo major Rubyfication;\nadditionally, some features may have not been ported yet."
   s.email = ["kaspar.schiess@absurd.li"]
   s.extra_rdoc_files = ["README"]
-  s.files = File.readlines('Manifest.txt').map { |l| l.chomp }
+  s.files = File.readlines('Manifest.txt').map { |l| l.chomp } - %w(
+    .gitignore Gemfile.lock
+  )
   s.homepage = "https://github.com/kschiess/text-reform"
   s.licenses = ["MIT"]
   s.rdoc_options = ["--main", "README"]

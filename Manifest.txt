@@ -5,7 +5,7 @@ HACKING
 History.txt
 LICENSE
 Manifest.txt
-README.txt
+README
 lib/text/reform.rb
 test/test_text_reform.rb
 text-reform.gemspec
