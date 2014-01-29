@@ -1,4 +1,6 @@
+.gitignore
 Gemfile
+Gemfile.lock
 HACKING
 History.txt
 LICENSE
