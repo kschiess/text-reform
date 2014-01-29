@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email = ["kaspar.schiess@absurd.li"]
   s.extra_rdoc_files = ["README"]
   s.files = File.readlines('Manifest.txt').map { |l| l.chomp } - %w(
-    .gitignore Gemfile.lock
+    .gitignore Gemfile.lock text-reform.gemspec
   )
   s.homepage = "https://github.com/kschiess/text-reform"
   s.licenses = ["MIT"]
