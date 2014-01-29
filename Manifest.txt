@@ -1,10 +1,9 @@
-COPYING.txt
+Gemfile
+HACKING
 History.txt
-LICENSE.txt
+LICENSE
 Manifest.txt
 README.txt
-Rakefile
-bin/text_reform
-lib/text-reform.rb
 lib/text/reform.rb
 test/test_text_reform.rb
+text-reform.gemspec
