@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    text-reform (0.3.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  text-reform!

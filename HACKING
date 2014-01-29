@@ -1,0 +1,5 @@
+
+# RUNNING TESTS
+
+    ruby -I lib test/test_text_reform.rb
+

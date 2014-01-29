@@ -1,5 +1,5 @@
 require "test/unit"
-require "text-reform"
+require "text/reform"
 
 class TestTextReform < Test::Unit::TestCase
   TEST_PAGINATION_1 = <<-EOS

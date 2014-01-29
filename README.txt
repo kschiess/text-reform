@@ -1,7 +1,6 @@
 = text-reform
 
-http://rubyforge.org/projects/text-format/
-http://github.com/halostatue/text-reform/
+http://github.com/kschiess/text-reform/
 
 == DESCRIPTION:
 
@@ -47,4 +46,4 @@ and generate the RDoc.
 
 Copyright (c) 2005, Kaspar Schiess. All Rights Reserved. This module is free
 software. It may be used, redistributed and/or modified under the terms of the
-Ruby License (see http://www.ruby-lang.org/en/LICENSE.txt)
+Ruby License (see http://www.ruby-lang.org/en/LICENSE.txt) or the MIT License.

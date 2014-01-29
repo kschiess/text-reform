@@ -1,6 +1,6 @@
 # Text::Reform for Ruby
 #
-# Copyright (c) 2004 by Kaspar Schiess
+# Copyright (c) 2004, 2014 by Kaspar Schiess
 
 require 'scanf'
 unless defined?(Text)
@@ -732,7 +732,7 @@ end
 # and/or modified under the terms of the Ruby License
 # (see http://www.ruby-lang.org/en/LICENSE.txt)
 class Text::Reform
-  VERSION = "0.2.1"
+  VERSION = "0.3.0"
 
   # various regexp parts for matching patterns.
   BSPECIALS       = %w{ [ | ] }

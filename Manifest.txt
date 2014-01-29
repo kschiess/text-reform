@@ -1,4 +1,3 @@
-.autotest
 COPYING.txt
 History.txt
 LICENSE.txt
